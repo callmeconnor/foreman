@@ -23,9 +23,15 @@ newgrp docker
 sudo service docker start
 ....
 
+Now you are already good to go. If you are not using "yum", replace that as you need to with the packagemanager of your _actual_ linux distribution.
+
+Also, do not forget to download or clone this repository and do everything that follows, as the rest of this tutorial assumes, in the base folder of that clone.
+
 [[docker-compose]]
 == Using Docker Compose
 === Initial usage
+
+As simple as tis tutorial is, initially the pre-built quay.io images are to be used (see below).
 
 [source, bash]
 ....
