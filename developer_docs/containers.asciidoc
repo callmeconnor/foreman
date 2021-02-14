@@ -31,7 +31,7 @@ Also, do not forget to download or clone this repository and do everything that 
 == Using Docker Compose
 === Initial usage
 
-As simple as tis tutorial is, initially the pre-built quay.io images are to be used (see below).
+As simple as this tutorial is, initially the pre-built quay.io images are used (see below for more info). So executing the following steps will include some image pulling from that docker repository:
 
 [source, bash]
 ....
